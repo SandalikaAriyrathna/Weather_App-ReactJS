@@ -5,7 +5,7 @@ const CurrentWeather = ({ data }) => {
   return (
     <>
       <br />
-      <h3 className="text-center">Today Weather Forecast</h3>
+      <h3 className="title">Today Weather Forecast</h3>
       <br />
 
       <div className="weather">

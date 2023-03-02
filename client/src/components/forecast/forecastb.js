@@ -18,7 +18,7 @@ const ForecastB = ({ data }) => {
 
   return (
     <>
-      <label className="title">Daily Weather Forecast</label>
+      <label className="title">Weather Forecast for Next Four Days</label>
       <br />
       <br />
       <Accordion allowZeroExpanded>

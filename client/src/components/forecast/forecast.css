@@ -1,6 +1,7 @@
 .title {
-  font-size: 23px;
+  font-size: 30px;
   font-weight: 700;
+  text-decoration: underline;
 }
 
 .daily-item {

@@ -39,7 +39,7 @@ export default function Forecast() {
 
   return (
     <>
-      <label className="title">Daily Weather Forecast</label>
+      <h2 className="title text-center">Daily Weather Forecast</h2>
       <br />
       <br />
       <Search onSearchChange={handleOnSearchChange} />
