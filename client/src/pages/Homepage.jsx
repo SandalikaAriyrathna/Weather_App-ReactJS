@@ -20,10 +20,10 @@ export default function Homepage() {
         <div className="container px-4 py-5 px-md-5 text-center text-lg-start my-5">
           <div className="row gx-lg-5 align-items-center mb-5">
             <div className="col-lg-6 mb-5 mb-lg-0" style={{ zIndex: '10' }}>
-              <div className="ms-8">
+              <div className="me-5">
                 <img
                   src="https://img.myloview.com/posters/weather-app-logo-700-270851892.jpg"
-                  height="150"
+                  height="130"
                   alt="logo"
                   loading="lazy"
                 />

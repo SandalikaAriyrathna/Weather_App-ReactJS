@@ -1,6 +1,21 @@
 .App {
   text-align: center;
 }
+.container {
+  max-width: 1080px;
+  margin: 20px auto;
+}
+
+.read-more-link {
+  color: rgb(43, 70, 226);
+  text-decoration: underline;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
+.extra-content {
+  color: cornflowerblue;
+  font-weight: 500;
+}
 
 .App-logo {
   height: 40vmin;
