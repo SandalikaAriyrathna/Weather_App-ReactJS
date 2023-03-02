@@ -33,7 +33,7 @@ export default function Login() {
               <div className="ms-8">
                 <img
                   src="https://img.myloview.com/posters/weather-app-logo-700-270851892.jpg"
-                  height="150"
+                  height="120"
                   alt="logo"
                   loading="lazy"
                 />
