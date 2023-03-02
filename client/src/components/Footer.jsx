@@ -24,7 +24,7 @@ export default function Footer() {
               >
                 <img
                   style={{ height: '130px', opacity: '0.7' }}
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl8JZUwkJX_oB8uDIwwTXXO8N9kY2SfrvTdIr455odkByuzDztNPUGiTe_TjSf_9uE5mA&usqp=CAU"
+                  src="https://media.psg.nexstardigital.net/kswb/weather/7daycoastal.jpg"
                   className="w-100"
                   alt=""
                 />
@@ -43,7 +43,7 @@ export default function Footer() {
               >
                 <img
                   style={{ height: '130px', opacity: '0.7' }}
-                  src="https://thumbs.dreamstime.com/z/inside-interior-pharmacy-dispensary-mall-johannesburg-south-africa-july-136957247.jpg"
+                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSyQazqXEF_s_5WXmJbfx1a8QymwY4Zqdi5A&usqp=CAU"
                   className="w-100"
                   alt=""
                 />
@@ -62,7 +62,7 @@ export default function Footer() {
               >
                 <img
                   style={{ height: '130px', opacity: '0.7' }}
-                  src="https://thumbs.dreamstime.com/z/alternative-medicines-germany-march-shelves-herbal-medicinal-products-sold-directly-to-consumer-prescription-69032394.jpg"
+                  src="https://img.freepik.com/premium-vector/types-weather-conditions-template-hand-drawn-cartoon-flat-illustration_2175-7634.jpg?w=2000"
                   className="w-100"
                   alt=""
                 />
@@ -81,7 +81,7 @@ export default function Footer() {
               >
                 <img
                   style={{ height: '130px', opacity: '0.7' }}
-                  src="https://thumbs.dreamstime.com/z/pharmacy-otc-products-turkey-64209774.jpg"
+                  src="https://t.pimg.jp/072/617/537/1/72617537.jpg"
                   className="w-100"
                   alt=""
                 />
@@ -100,7 +100,7 @@ export default function Footer() {
               >
                 <img
                   style={{ height: '130px', opacity: '0.7' }}
-                  src="https://thumbs.dreamstime.com/b/pharmacy-otc-products-turkey-64209585.jpg"
+                  src="https://img.freepik.com/premium-vector/weather-forecast-widget-collection-icon-mobile-application-program-with-rain-cloud-sun-snowing-windy-sunlight-symbol-vector-illustration-concept_38364-159.jpg?w=2000"
                   className="w-100"
                   alt=""
                 />
@@ -119,7 +119,7 @@ export default function Footer() {
               >
                 <img
                   style={{ height: '130px', opacity: '0.7' }}
-                  src="https://thumbs.dreamstime.com/z/pharmacist-reading-prescription-pharmacy-16753516.jpg"
+                  src="https://www.dtn.com/wp-content/uploads/2020/05/WeatherApp_640x336.jpg"
                   className="w-100"
                   alt=""
                 />
@@ -190,7 +190,7 @@ export default function Footer() {
       >
         © 2020 Copyright:
         <a className="text-dark" href="https://gorent.com/">
-          GoRent.com
+          myweather.com
         </a>
       </div>
     </MDBFooter>
