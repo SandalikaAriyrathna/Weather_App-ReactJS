@@ -4,7 +4,7 @@ Weather_App-ReactJS
 
 # Run the project -->
 
-path --> D:\SLIIT\3rd_year\second semester\Loons Lab Project\React Project\Weather_App-ReactJS>
+path --> ..\Weather_App-ReactJS>
 yarn run dev
 
 *Moved to home page
