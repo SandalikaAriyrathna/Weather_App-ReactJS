@@ -2,12 +2,12 @@ import React, { useContext } from 'react';
 import { Context } from './context/Context';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
-import Homepage from './pages/Homepage';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import Logout from './components/Logout';
 import UserProfile from './pages/UserProfile';
 import Weather from './pages/Weather';
+import Homepage from './pages';
 
 function App() {
   const { user } = useContext(Context);
